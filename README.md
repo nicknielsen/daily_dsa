@@ -6,11 +6,11 @@ This is a repository of my daily practice with data structures and algorithms (D
 
 I'm keeping a journal of my adventures with DSA to keep track of not just my progress, but my thoughts, feelings, and revelations along the way.
 
-- [August 2022](##august-2022)
+- [August 2022](#august-2022)
 
 ## August 2022
 - August 1 - 6\*
-- [August 7 - 13](###august-7---13)
+- [August 7 - 13](#august-7---13)
 - August 14 - 20
 - August 21 - 27
 - August 28 - 31
